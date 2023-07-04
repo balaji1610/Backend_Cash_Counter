@@ -1,0 +1,53 @@
+{
+  "cashcounter": [
+    {
+      "id": 1,
+      "date": "25 June 2023 at 06:17 pm",
+      "notes": {
+        "fivehundered": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "twohundered": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "onehundered": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "fifty": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "twenty": {
+          "numberofnotes": 0,
+          "value": 0
+        }
+      },
+      "coins": {
+        "ten": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "five": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "two": {
+          "numberofnotes": 0,
+          "value": 0
+        },
+        "one": {
+          "numberofnotes": 0,
+          "value": 0
+        }
+      },
+      "total": {
+        "sumoftotal": 0,
+        "notes": 0,
+        "coins": 0
+      }
+    }
+  ]
+}
